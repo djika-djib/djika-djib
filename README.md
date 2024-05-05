@@ -9,12 +9,12 @@ I am a passionate and dedicated IT professional with a Bachelor's degree in Info
 ### Project 1: [Waste Management System]
 
 - Description: eWaste is a mobile application designed to revolutionize waste management and recycling practices in Accra, Ghana. Leveraging modern technology and citizen engagement, eWaste aims to streamline waste collection processes, promote recycling participation, and raise environmental awareness among residents.
-- GitHub Repository: 
+- GitHub Repository: https://github.com/djika-djib/eWaste.git
 
 ### Project 2: [ANAB App]
 
 - Description: This is a web app that allows Niger students studying in Ghana to submit documents or transcripts to either renew or apply for the national scholarship.
-- GitHub Repository: []
+- GitHub Repository: https://github.com/djika-djib/Anab.git
 
 
 ## Skills 💻
@@ -25,7 +25,7 @@ I am a passionate and dedicated IT professional with a Bachelor's degree in Info
 
 ## Contact Me 📫
 
-- LinkedIn: [[]](https://www.linkedin.com/in/djika-djibrila-abdou-bontianti-b23231232/)
+- LinkedIn: https://www.linkedin.com/in/djika-djibrila-abdou-bontianti-b23231232/
 - Email: djibril001@yahoo.com
 
 ## Additional Information ℹ️
