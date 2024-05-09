@@ -16,6 +16,11 @@ I am a passionate and dedicated IT professional with a Bachelor's degree in Info
 - Description: This is a web app that allows Niger students studying in Ghana to submit documents or transcripts to either renew or apply for the national scholarship.
 - GitHub Repository: https://github.com/djika-djib/Anab.git
 
+### Project 3: [Image-Voice recognition system]
+
+- Description: 
+- GitHub Repository: https://github.com/djika-djib/Image-To-Voice-Recognition-System.git
+
 
 ## Skills 💻
 
