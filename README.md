@@ -18,7 +18,8 @@ I am a passionate and dedicated IT professional with a Bachelor's degree in Info
 
 ### Project 3: [Image-Voice recognition system]
 
-- Description: 
+- Description: This system accept a voice input from the user and based on the voice recognition algorithm, it is able to pick the appropriate image the user is refering to from the database. The main logic is written in python and it uses MySQL database.
+
 - GitHub Repository: https://github.com/djika-djib/Image-To-Voice-Recognition-System.git
 
 
